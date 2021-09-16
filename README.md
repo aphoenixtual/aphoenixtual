@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a>. I'm passionate Competitive Programmer and currently working as a Software Engineer at <a href="https://www.tavant.com/">Tavant Technologies</a>👨‍💻. I have experience working as a Software Engineer in various domains like E-Commerce and Health-Care.
+Hey, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a>. I'm passionate Competitive Programmer and currently working as a Software Engineer at <a href="https://www.tavant.com/">Tavant Technologies</a>👨‍💻. I have experience working as a Software Engineer in various domains like E-Commerce and Health-Care.
 <br />
 
 I am skilled in :- <br />
@@ -36,7 +36,7 @@ I am skilled in :- <br />
 
 - 💻  I’m currently learning System Design and Advanced Algorithms . <br />
 - 👯 I’m looking to collaborate on interesting projects. <br /> 
-- 😄 Pronouns: Phoenix. <br /> 
+- 😄 Pronouns: aphoenixtual. <br /> 
 - 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/aphoenixtual)). <br /> 
 - 💬 Ask me about Full Stack Web Devlopment, System Design and Health-care technologies [here](https://www.linkedin.com/in/aayush-patel-ab76b3165/). <br />
 
