@@ -1,6 +1,5 @@
 [![](https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/aayush.gif)](https://www.aphoenixtual.com/)<!-- If you want the template for my gif, email me! -->
 
-# I'm Aayush ! 
 <a href="https://www.linkedin.com/in/aayush-patel-ab76b3165/">
   <img align="left" alt="Aayush Patel | LinkedIn" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/social-linkedin-circle-512.webp" />
 </a>
