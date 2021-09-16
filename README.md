@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/aayush.webm)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/aayush.gif)](https://www.aphoenixtual.com/)<!-- If you want the template for my gif, email me! -->
 
 # I'm Aayush ! 
 <a href="https://www.linkedin.com/in/aayush-patel-ab76b3165/">
