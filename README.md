@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a>. I am a final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I'm currently working as a Software Engineer at <a href="https://innovaccer.com/">Innovaccer</a>👨‍💻. I have experience working as a Software Engineer in various domains like E-Commerce and Health-Care.
+Hi, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a>. I am final year student of Computer Science Engineering at Medi-Caps University , Indore. I'm currently working as a Software Development Engineer at <a href="https://www.tavant.com/">Tavant Technologies</a>👨‍💻. I have experience working as a Software Engineer in various domains like E-Commerce and Health-Care.
 <br />
 
 I am skilled in :- <br />
