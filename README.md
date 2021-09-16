@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/aayush.gif)]
+[![](https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/aayush.gif)
 
 # I'm Aayush ! 
 <a href="https://www.linkedin.com/in/aayush-patel-ab76b3165/">
