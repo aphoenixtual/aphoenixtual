@@ -1,4 +1,5 @@
-# Hi there👋
+[![](https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/aayush.gif)]
+
 # I'm Aayush ! 
 <a href="https://www.linkedin.com/in/aayush-patel-ab76b3165/">
   <img align="left" alt="Aayush Patel | LinkedIn" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/social-linkedin-circle-512.webp" />
