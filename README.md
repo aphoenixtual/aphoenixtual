@@ -43,11 +43,8 @@ I am skilled in :- <br />
 **Languages and Tools:**  
 <img style="margin-right: 5px" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-icon-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/flask-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/mongodb-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-vector.svg">
