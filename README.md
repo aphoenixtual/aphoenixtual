@@ -15,7 +15,7 @@
 <a href="https://www.hackerrank.com/ayushp264?hr_r=1">
   <img align="left" alt="Aayush Patel | HackerRank" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/HackerRank_logo.png" />
 </a>
-<a href="https://www.instagram.com/ayushpatel_311/">
+<a href="https://www.instagram.com/aayushpatel_311/">
   <img align="left" alt="Aayush's Instagram" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/instagram-social-media-logo-for-your-works-png-format-19.png" />
 </a>
 
