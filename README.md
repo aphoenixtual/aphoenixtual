@@ -27,9 +27,9 @@ Hey, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a>. I'm pas
 
 I am skilled in :- <br />
 - Programming Languages : Java,C++,Python,Javascript(ES-6). <br />
-- Back End Web Development: SQL, Python Django,Node.js,Express.js, Mongo.DB. <br /> 
+- Back End Web Development: SQL, Node.js, Mongo.DB. <br /> 
 - Front End Web Developement : HTML, CSS, React.js, Bootstrap, jQuery and other React/FrontEnd Frameworks. <br /> 
-- DevTools : Amazon Web Services,Git Version Control,Pandas,Linux Terminal,Postman,SonarQube,Heroku,Netlify. <br /> 
+- DevTools : Amazon Web Services,Git Version Control,Linux Terminal,Postman,SonarQube,Heroku,Netlify. <br /> 
 - Other Skills: Data Analytics, Machine Learning, Natural Language Processing. <br /> 
 
 **More About Me :** 
