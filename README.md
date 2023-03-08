@@ -28,7 +28,7 @@ Hey, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a>. I'm pas
 I am skilled in :- <br />
 - Programming Languages : Java, C++, Javascript(ES-6). <br />
 - Back End Web Development: Spring, Springboot, Microservices, SQL, Node.js, Mongo.DB. <br /> 
-- Front End Web Developement : Angular, React <br /> 
+- Front End Web Developement : Angular, React. <br /> 
 - DevTools : Amazon Web Services, Git Version Control, Linux Terminal, Postman, SonarQube, Heroku, Netlify. <br /> 
 <br /> 
 
