@@ -29,7 +29,7 @@ Hey, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a> full sta
 Skills/Interests: 
 <br />
 - Java, Algorithms & Data Structures, Multi threading / Concurrency
-- Spring (Core, DI, AOP, MVC, Web-Service, Boot, Security) Framework, Microservices, Kafka, Angular-11, React 
+- Spring (Core, DI, AOP, MVC, Web-Service, Boot, Security) Framework, Microservices, Kafka, Angular, React 
 - Cloud, Web-services (REST and SOAP), Drools rule engine, DB, ORM & Liquibase <br /> 
 <br /> 
 
