@@ -22,14 +22,15 @@
 <br />
 <br />
 
-Hey, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a>. I'm passionate Competitive Programmer and currently working as a Software Engineer at <a href="https://www.tavant.com/">Tavant Technologies</a>👨‍💻.
+Hey, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a> full stack Java developer, I've a 2 years of experience in Software development and currently working as a Software Engineer at
+ <a href="https://www.tavant.com/">Tavant Technologies</a>👨‍💻.
 <br />
 
-I am skilled in :- <br />
-- Programming Languages : Java, C++, Javascript(ES-6). <br />
-- Back End Web Development: Spring, Springboot, Microservices, SQL, Node.js, Mongo.DB. <br /> 
-- Front End Web Developement : Angular, React. <br /> 
-- DevTools : Amazon Web Services, Git Version Control, Linux Terminal, Postman, SonarQube, Heroku, Netlify. <br /> 
+Skills/Interests: 
+<br />
+- Java, Algorithms & Data Structures, Multi threading / Concurrency
+- Spring (Core, DI, AOP, MVC, Web-Service, Boot, Security) Framework, Microservices, Kafka, Angular-11, React 
+- Cloud, Web-services (REST and SOAP), Drools rule engine, DB, ORM & Liquibase <br /> 
 <br /> 
 
 **More About Me :** 
