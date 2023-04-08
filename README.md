@@ -4,7 +4,7 @@
   <img align="left" alt="Aayush Patel | LinkedIn" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/social-linkedin-circle-512.webp" />
 </a>
 
-<a href="https://www.codechef.com/users/robinhood264">
+<a href="https://www.codechef.com/users/aayushpatel_311">
   <img align="left" alt="Aayush Patel | CodeChef" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/social-codechef-circle-512.jpg" />
 </a>
 
