@@ -1,26 +1,4 @@
 
-<a href="https://www.linkedin.com/in/aayush-patel-ab76b3165/">
-  <img align="left" alt="Aayush Patel | LinkedIn" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/social-linkedin-circle-512.webp" />
-</a>
-
-<a href="https://www.codechef.com/users/aayushpatel_311">
-  <img align="left" alt="Aayush Patel | CodeChef" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/social-codechef-circle-512.jpg" />
-</a>
-
-<a href="https://leetcode.com/ayushp264/">
-  <img align="left" alt="Aayush Patel | Leetcode" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/social-leetcode-circle-512.png" />
-</a>
-
-<a href="https://www.hackerrank.com/ayushp264?hr_r=1">
-  <img align="left" alt="Aayush Patel | HackerRank" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/HackerRank_logo.png" />
-</a>
-<a href="https://www.instagram.com/aayushpatel_311/">
-  <img align="left" alt="Aayush's Instagram" width="40px" src="https://raw.githubusercontent.com/aphoenixtual/aphoenixtual/master/assets/instagram-social-media-logo-for-your-works-png-format-19.png" />
-</a>
-
-<br />
-<br />
-
 Hey, I'm <a href = "https://aayush-patel.netlify.app/">Aayush Patel</a> full stack Java developer, I've a 2 years of experience in Software development and currently working as a Software Engineer at
  <a href="https://www.tavant.com/">Tavant Technologies</a>👨‍💻.
 <br />
